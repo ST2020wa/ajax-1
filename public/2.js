@@ -1,0 +1,1 @@
+console.log('Hey 你的 2.js 来了')
